@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+venv/
+.env
+
+# Generated files
+backend/uploads/
+backend/outputs/
+
+# Frontend
+frontend/node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
