@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+body {
+
+  margin:0;
+
+  padding:0;
+
+  font-family:
+  Inter,
+  Arial,
+  sans-serif;
+
+  background:#111827;
+
+  color:white;
+
+}
+.test {
+  color: red;
+  font-size: 50px;
+}
